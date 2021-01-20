@@ -2,8 +2,22 @@
   text-align: center;
 }
 .s{
-  font-family: Arial;
+  font-family:cursive;
   color: purple;
+  text-align: center;
+font-weight: bold;
+font-size:xx-large;
+  
+}
+.cake{
+  
+    font-family:cursive;
+    color:rosybrown;
+    text-align: center;
+  font-weight: bold;
+  font-size:xx-large;
+    
+
 }
 .App-logo {
   height: 40vmin;
